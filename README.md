@@ -1,0 +1,2 @@
+# SayilariKucuktenBuyugeSiralayanProgram
+Sayıları Küçükten Büyüğe Sıralayan Program
